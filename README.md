@@ -1,9 +1,9 @@
 
 # [this is ubuntu 20.04 for python3.7 (python3.7.13)]
 
-links to the projects that are used
+links to the projects that are used (check original sources)
 ```
-https://github.com/geohot/twitchslam
+https://github.com/geohot/twitchslam            # (python3.6)
 https://github.com/uoip/pangolin
 https://github.com/uoip/g2opy
 ```
